@@ -1,6 +1,6 @@
-# web-app-online-cafe-shop-management-system
+﻿# web-application-online-cafe-shop
 
-## Tools and Languages in use
+## Tool and Languages
 
 > - XAMPP Control Panel
 > - HTML
@@ -12,7 +12,7 @@
 ## Functional Requirements:
 
 > 1. A system must have authentication like admin, user, and visitor.
-> 2. A system should add, modify, and deleted the product.
+> 2. A system should add, modify and deleted the product.
 > 3. A system should charge the customer for the service when a certain action is completed.
 > 4. A system should be able to create an account, modify and delete it.
 > 5. A system should be able to maintain employee details which includes add, view, and delete actions.
