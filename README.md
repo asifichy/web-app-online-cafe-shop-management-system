@@ -95,3 +95,18 @@
 > - Kazi Sifat Al Maksud
 > - Mujahidul Islam
 
+
+
+
+
+##Screen Record
+
+
+
+
+
+https://github.com/asifichy/web-app-online-cafe-shop-management-system/assets/68398397/1701aa83-338d-45f1-a395-0def79ae478a
+
+
+
+
