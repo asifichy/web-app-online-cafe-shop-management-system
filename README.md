@@ -90,7 +90,8 @@
 
 ## Contributors
 
+> - Md. Asif Imtiyaj Chowdhury
 > - Mohsenul Kabir Mithun
 > - Kazi Sifat Al Maksud
 > - Mujahidul Islam
-> - Md. Asif Imtiyaj Chowdhury
+
